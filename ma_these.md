@@ -10,3 +10,6 @@ Pourquoi ma thèse va révolutionner la science moderne
 
 # conclusion
 
+Voilà pourquoi, quand vous aurez lu ma thèse, vous ne pourrez plus voir le monde de la même façon.
+
+
