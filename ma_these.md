@@ -4,6 +4,8 @@ ceci est l'introduction de ma thèse
 
 # première partie
 
+Dans ma première partie, je vais poser les grandes lignes du problème à résoudre.
+
 # deuxième partie
 
 # troisième partie
